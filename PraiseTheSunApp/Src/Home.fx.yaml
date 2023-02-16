@@ -30,7 +30,7 @@ Home As screen:
         ZIndex: =5
 
     Label2 As label:
-        Text: ="azef"
+        Text: ="HEY"
         X: =60
         Y: =60
         ZIndex: =6
