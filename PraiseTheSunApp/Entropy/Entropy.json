@@ -1,0 +1,61 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 6,
+    "Home": 3,
+    "Image3": 7,
+    "Label1": 8
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/16/2023 13:11:52",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {
+    "305-3051527_solaire-of-astora-praise-the-sun-t-shirt": "7da8be90-350c-47dd-8f4a-405624c1e698.png"
+  },
+  "LocalResourceRootPaths": {
+    "305-3051527_solaire-of-astora-praise-the-sun-t-shirt": "https://docserverpwaprodweu.blob.core.windows.net/e7c2451b-1b3a-4cb2-b241-bd87471d30f0-1/resource/1b83ef00-07eb-4eb7-8a6e-c28dac9ca18d.png?sv=2018-03-28&sr=b&sig=JOG1M03LA7BBWON5ODBgP3wGBCyVgy%2BOAVns0ZbDG8I%3D&spr=https&se=2023-02-17T13%3A14%3A48Z&sp=r"
+  },
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "button": 1,
+    "image": 0,
+    "label": 2
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "Home": {},
+    "Image3": {},
+    "Label1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 1,
+    "Home": 0,
+    "Image3": 0,
+    "Label1": 2
+  },
+  "ResourcesJsonIndices": {
+    "Image-305-3051527_solaire-of-astora-praise-the-sun-t-shirt": 1,
+    "Image-SampleImage": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.016484,
+    "ControlCount": {},
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}

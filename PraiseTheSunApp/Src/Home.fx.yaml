@@ -1,0 +1,31 @@
+Home As screen:
+
+    Button1 As button:
+        Height: =46
+        OnSelect: |-
+            =UpdateContext({locSunPraised:!locSunPraised})
+        Text: ="PRAISE THE SUN"
+        Width: =286
+        X: =558
+        Y: =552
+        ZIndex: =3
+
+    Image3 As image:
+        Height: =482
+        Image: ='305-3051527_solaire-of-astora-praise-the-sun-t-shirt'
+        Width: =1286
+        X: =40
+        Y: =40
+        ZIndex: =4
+
+    Label1 As label:
+        Align: =Align.Center
+        Height: =129
+        Size: =50
+        Text: ="MAGNIFICENT"
+        Visible: =locSunPraised
+        Width: =1074
+        X: =164
+        Y: =615
+        ZIndex: =5
+
