@@ -6,11 +6,12 @@
     "Button1": 6,
     "Home": 3,
     "Image3": 7,
-    "Label1": 8
+    "Label1": 8,
+    "Label2": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/16/2023 13:11:52",
+  "HeaderLastSavedDateTimeUTC": "02/16/2023 13:12:39",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -27,16 +28,17 @@
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "button": 1,
+    "button": 2,
     "image": 0,
-    "label": 2
+    "label": 1
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
     "Home": {},
     "Image3": {},
-    "Label1": {}
+    "Label1": {},
+    "Label2": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PublishOrderIndices": {
@@ -44,7 +46,8 @@
     "Button1": 1,
     "Home": 0,
     "Image3": 0,
-    "Label1": 2
+    "Label1": 2,
+    "Label2": 0
   },
   "ResourcesJsonIndices": {
     "Image-305-3051527_solaire-of-astora-praise-the-sun-t-shirt": 1,

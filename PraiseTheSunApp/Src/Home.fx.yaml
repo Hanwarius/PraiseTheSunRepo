@@ -29,3 +29,9 @@ Home As screen:
         Y: =615
         ZIndex: =5
 
+    Label2 As label:
+        Text: ="azef"
+        X: =60
+        Y: =60
+        ZIndex: =6
+
