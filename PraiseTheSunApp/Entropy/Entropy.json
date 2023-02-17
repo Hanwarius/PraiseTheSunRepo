@@ -5,13 +5,13 @@
     "App": 1,
     "Button1": 6,
     "Home": 3,
-    "Image3": 7,
-    "Label1": 8,
-    "Label2": 9
+    "Image3": 4,
+    "Label1": 7,
+    "Label2": 5
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/16/2023 13:47:01",
+  "HeaderLastSavedDateTimeUTC": "02/17/2023 09:52:44",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -19,7 +19,7 @@
     "305-3051527_solaire-of-astora-praise-the-sun-t-shirt": "7da8be90-350c-47dd-8f4a-405624c1e698.png"
   },
   "LocalResourceRootPaths": {
-    "305-3051527_solaire-of-astora-praise-the-sun-t-shirt": "https://docserverpwaprodweu.blob.core.windows.net/e7c2451b-1b3a-4cb2-b241-bd87471d30f0-1/resource/1b83ef00-07eb-4eb7-8a6e-c28dac9ca18d.png?sv=2018-03-28&sr=b&sig=JOG1M03LA7BBWON5ODBgP3wGBCyVgy%2BOAVns0ZbDG8I%3D&spr=https&se=2023-02-17T13%3A14%3A48Z&sp=r"
+    "305-3051527_solaire-of-astora-praise-the-sun-t-shirt": "https://docserverpwaprodneu.blob.core.windows.net/e217e82c-b264-4668-8a8d-6bb444297ba8-1/resource/Assets0Images07da8be90-350c-47dd-8f4a-405624c1e698.png?sv=2018-03-28&sr=b&sig=xT9XmaBPOAH7ANyvf9%2F7%2FkssC%2B678i26yyS%2FEiTmftA%3D&spr=https&se=2023-02-18T10%3A07%3A36Z&sp=r"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -56,8 +56,14 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.016484,
-    "ControlCount": {},
+    "AnalysisLoadTime": 0.062897,
+    "ControlCount": {
+      "button": 1,
+      "image": 1,
+      "label": 2,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.8944137,
     "ErrorCount": 0
   },
   "WasLocalDatabaseReferencesEmpty": true
