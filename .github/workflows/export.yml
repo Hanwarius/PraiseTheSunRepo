@@ -4,16 +4,16 @@
   uses: rajyraman/powerapps-deploy-solution@v1.1
   with:
     # GitHub Token
-    token: 
+    token: SunToken
     # Tag Name
-    tag: 
+    tag: main
     # Solution Name
-    solutionName: 
+    solutionName: PraiseTheSol
     # Target Environment URL
-    targetEnvironmentUrl: 
+    targetEnvironmentUrl: https://org97d6960c.crm4.dynamics.com/
     # Application Id
-    applicationId: 
+    applicationId: bec91185-0b42-485e-9933-51c94635b360
     # Application Secret
-    applicationSecret: 
+    applicationSecret: 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
     # Managed Solution?
     managed: # default is false
