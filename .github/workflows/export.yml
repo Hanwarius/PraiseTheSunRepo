@@ -1,0 +1,19 @@
+- name: powerapps-deploy-solution
+  # You may pin to the exact commit or the version.
+  # uses: rajyraman/powerapps-deploy-solution@18f37396e790d46fdd1f5f58ee64a0b019d902e6
+  uses: rajyraman/powerapps-deploy-solution@v1.1
+  with:
+    # GitHub Token
+    token: 
+    # Tag Name
+    tag: 
+    # Solution Name
+    solutionName: 
+    # Target Environment URL
+    targetEnvironmentUrl: 
+    # Application Id
+    applicationId: 
+    # Application Secret
+    applicationSecret: 
+    # Managed Solution?
+    managed: # default is false
