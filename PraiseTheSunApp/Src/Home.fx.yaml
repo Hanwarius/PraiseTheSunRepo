@@ -4,7 +4,7 @@ Home As screen:
         Height: =46
         OnSelect: |-
             =UpdateContext({locSunPraised:!locSunPraised})
-        Text: ="PRAISE THE SUN"
+        Text: ="PRAISE THE SUN MORE"
         Width: =286
         X: =558
         Y: =552
