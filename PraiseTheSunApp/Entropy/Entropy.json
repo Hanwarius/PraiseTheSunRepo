@@ -1,25 +1,70 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Button1": 6,
+    "Home": 3,
+    "Image3": 4,
+    "Label1": 7,
+    "Label2": 5
+  },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/17/2023 09:54:14",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
-  "LocalResourceFileNames": {},
-  "LocalResourceRootPaths": {},
+  "LocalResourceFileNames": {
+    "305-3051527_solaire-of-astora-praise-the-sun-t-shirt": "0001.png"
+  },
+  "LocalResourceRootPaths": {
+    "305-3051527_solaire-of-astora-praise-the-sun-t-shirt": "https://docserverpwaprodneu.blob.core.windows.net/e217e82c-b264-4668-8a8d-6bb444297ba8-1/resource/Assets0Images00001.png?sv=2018-03-28&sr=b&sig=VhfJa4DD8foJlr2lHnu5UJCbFIKPQKXzMLlbHMfQZUI%3D&spr=https&se=2023-02-18T10%3A08%3A15Z&sp=r"
+  },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "OverridablePropertiesEntry": {},
+  "OrderXMLTemplate": {
+    "button": 2,
+    "image": 0,
+    "label": 1
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Button1": {},
+    "Home": {},
+    "Image3": {},
+    "Label1": {},
+    "Label2": {}
+  },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
-  "PublishOrderIndices": {},
-  "ResourcesJsonIndices": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Button1": 2,
+    "Home": 2,
+    "Image3": 0,
+    "Label1": 3,
+    "Label2": 1
+  },
+  "ResourcesJsonIndices": {
+    "Image-305-3051527_solaire-of-astora-praise-the-sun-t-shirt": 1,
+    "Image-SampleImage": 0
+  },
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {}
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.018004,
+    "ControlCount": {
+      "button": 1,
+      "image": 1,
+      "label": 2,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.1176117,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
 }

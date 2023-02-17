@@ -30,7 +30,7 @@ Home As screen:
         ZIndex: =5
 
     Label2 As label:
-        Text: ="HEY what's poppin"
+        Text: ="HEY what's poppin YALLLL"
         X: =60
         Y: =60
         ZIndex: =6
