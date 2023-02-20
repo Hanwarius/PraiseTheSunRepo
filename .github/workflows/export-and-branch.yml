@@ -45,5 +45,5 @@ jobs:
       with:
         solution-folder: out/solutions/PTN
         solution-target-folder: solutions/PTN
-        repo-token: ${{ secrets.mytoken }}
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
         allow-empty-commit: true
