@@ -29,7 +29,7 @@ jobs:
         environment-url: 'https://org3dd8e278.crm4.dynamics.com'
         user-name: 'hanwar@6sp8h6.onmicrosoft.com'
         password-secret: ${{ secrets.password }}
-        solution-name: PraiseTheNewSol
+        solution-name: PraiseTheSol
         solution-output-file: out/exported/PTN.zip
 
     - name: unpack-solution action
